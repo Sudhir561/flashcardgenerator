@@ -59,7 +59,7 @@ This project was constructed utilizing a variety of frontend technologies, inclu
 Clone the project
 
 ```bash
-  git clone https://github.com/Ashvary1996/flashcardgenerator.git
+  git clone https://github.com/Sudhir561/flashcardgenerator.git
 ```
 
 Go to the project directory
